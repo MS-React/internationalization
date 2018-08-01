@@ -1,0 +1,30 @@
+{
+  "button": {
+    "add": "Add",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "sign_in": "Sign in"
+  },
+  "text": {
+    "action_user_form": "%{action} User",
+    "back_to_top": "Back to top",
+    "delete_user": "Are you sure to delete User %{name}",
+    "footer": "Directly starter app in React Redux. See this project @",
+    "github": "GitHub",
+    "go_back": "Go back to %{page}",
+    "header": "Directly starter app",
+    "hint": "Hint:",
+    "hint_username_password": "username/password",
+    "email": "Email",
+    "name": "Name",
+    "password": "Password",
+    "page_not_found": "Page not found",
+    "phone_number": "Phone Number",
+    "please_sign_in": "Please sign in",
+    "skype_id": "Skype ID",
+    "users_list": "Users List",
+    "username_or_email": "Username or email address"
+  }
+}
