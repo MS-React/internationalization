@@ -1,6 +1,4 @@
-# Directly Training Project
-
-## Description:
+# Directly Training Frontend
 Directly training app, is an application with **webpack** and **react** to make additions, deletions, and modifications from users.
 
 ## Prerequisites
