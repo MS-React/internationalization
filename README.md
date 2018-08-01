@@ -1,17 +1,31 @@
 # Directly Training Project
 
-Description:
+## Description:
 Directly training app, is an application with **webpack** and **react** to make additions, deletions, and modifications from users.
 
-Application config:
+## Prerequisites
+**install npm**
+  * `sudo apt-get update`
+  * `sudo apt-get install nodejs`
+  * `sudo apt-get install npm`
 
+Also, you can use [nvm node version management tool](https://github.com/creationix/nvm)
+
+**install yarn**
+  * `curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -`
+  * `echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list`
+  * `sudo apt-get update && sudo apt-get install yarn`
+
+## Start application
+  - Install packages `npm install` or `yarn install`
+  - Run app: `npm start` or `yarn start`
   - By default, the application starts on http://localhost:8080
   - The backend is integrated with the API [MS BE with heroku](https://ms-labs-be.herokuapp.com) you can check the repo here: [MS BE Repository](https://github.com/MS-React/backend)
   - You can point to the local backend with the file **app/constants.js**
 
   >For now don't commit this **.env.development** or **constants.js** file changes
 
-### Start application
+### Commands
 
 **install packages**
 ```ssh
