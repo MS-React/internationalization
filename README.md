@@ -1,9 +1,15 @@
 # Directly Training Project
 
 Description:
-Directly training app, is an application with webpack and react to make additions, deletions and modifications from users.
+Directly training app, is an application with **webpack** and **react** to make additions, deletions, and modifications from users.
 
-By default the application is integrated with the api [MS BE](https://ms-labs-be.herokuapp.com) you can check the repo here: [MS BE Repository](https://github.com/MS-React/backend)
+Application config:
+
+  - By default, the application starts on http://localhost:8080
+  - The backend is integrated with the API [MS BE with heroku](https://ms-labs-be.herokuapp.com) you can check the repo here: [MS BE Repository](https://github.com/MS-React/backend)
+  - You can point to the local backend with the file **app/constants.js**
+
+  >For now don't commit this **.env.development** or **constants.js** file changes
 
 ### Start application
 
@@ -35,9 +41,6 @@ npm run lint
 ```ssh
 npm run sass-lint
 ```
-
->For now don't commit this **.env.development** or **constants.js** file changes
-
 
 # Internationalization - i18n
 
