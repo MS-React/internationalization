@@ -1,5 +1,5 @@
 # Directly Training Frontend
-Directly training app, is an application with **webpack** and **react** to make additions, deletions, and modifications from users.
+Directly training app, is an application with **webpack**, **react** and redux to make additions, deletions, and modifications from users.
 
 ## Prerequisites
 
@@ -61,6 +61,12 @@ npm run lint
 ```ssh
 npm run sass-lint
 ```
+
+**build from production**
+```ssh
+npm run build
+```
+
 
 # Internationalization - i18n
 
