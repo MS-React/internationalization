@@ -70,6 +70,8 @@ npm run build
 
 # Internationalization - i18n
 
+The i18n is widely known between the developers for being a hard and largely unsolved problem. The internationalization of your application is a primordial step to make it succeed in other regions or planets where they don't speak the same language as you, it should support virtually any language or local.
+
 ### Implemented with react-i18nify-lite library
 
 ### Translation file: webapp/app/lang/en.js
